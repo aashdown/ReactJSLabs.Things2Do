@@ -1,0 +1,16 @@
+{
+  "todo": [
+    {
+      "title": "Thing 1",
+      "description": "Do it",
+      "done": false,
+      "id": 1
+    },
+    {
+      "title": "Thing 2",
+      "description": "Do it now!",
+      "done": false,
+      "id": 2
+    }
+  ]
+}
